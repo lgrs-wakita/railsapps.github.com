@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 # ruby '1.9.3'
 gem 'gollum-site'
-gem 'RedCloth'
+gem 'RedCloth', '>= 4.3.3'
 gem 'thor'

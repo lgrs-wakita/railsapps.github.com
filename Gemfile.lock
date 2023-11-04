@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    RedCloth (4.3.2)
+    RedCloth (4.3.3)
     blankslate (3.1.3)
     diff-lcs (1.3)
     directory_watcher (1.5.1)
@@ -55,9 +55,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  RedCloth
+  RedCloth (>= 4.3.3)
   gollum-site
   thor
 
 BUNDLED WITH
-   2.1.2
+   2.1.4
